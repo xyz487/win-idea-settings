@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.classpath;*.gitignore;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sts4-cache;*.vscode;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="json" type="JSON" />
+      <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
