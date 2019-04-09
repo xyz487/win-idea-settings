@@ -4,9 +4,10 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="json" type="JSON" />
-      <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
-      <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
+      <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
+      <mapping pattern="demoMapper.xml" type="XML" />
     </extensionMap>
   </component>
 </application>
