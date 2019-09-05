@@ -4,5 +4,9 @@
       <display-name>project</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("project")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="xml">
+      <display-name>sql</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("sql")).withNamespace(string().equalTo("http://www.mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
   </component>
 </application>
