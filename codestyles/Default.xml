@@ -2,4 +2,12 @@
   <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
   </SqlCodeStyleSettings>
+  <XML>
+    <option name="XML_KEEP_WHITESPACES" value="true" />
+  </XML>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
