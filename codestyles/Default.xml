@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
