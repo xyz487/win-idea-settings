@@ -1,6 +1,14 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="FONT_FACE" value="Microsoft YaHei" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_TABS_TOOLTIPS" value="false" />
   </component>
 </application>

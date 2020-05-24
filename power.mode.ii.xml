@@ -1,10 +1,14 @@
 <application>
   <component name="PowerModeII">
-    <option name="customBamImageFolder" value="d:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\bin" />
-    <option name="customFlameImageFolder" value="d:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\bin" />
+    <option name="customBamImageFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.1\bin" />
+    <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.1\bin" />
+    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isCaretAction" value="false" />
     <option name="isPowerIndicatorEnabled" value="false" />
     <option name="shakeEnabled" value="false" />
-    <option name="soundsFolder" value="d:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\bin" />
+    <option name="soundsFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.1\bin" />
+    <option name="sparksEnabled" value="false" />
   </component>
 </application>
