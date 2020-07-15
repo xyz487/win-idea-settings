@@ -5,7 +5,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="YuMincho +36p Kana" />
-    <option name="LINE_SPACING" value="1.0" />
+    <option name="LINE_SPACING" value="0.8" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
