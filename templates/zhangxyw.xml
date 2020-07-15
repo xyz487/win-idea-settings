@@ -1,8 +1,16 @@
 <templateSet group="zhangxyw">
-  <template name="*" value="*&#10; * &#10; * @author zhangxy&#10; * @date $date$ $time$&#10; * @param $params$&#10; * @return &#10; */" description="/** 自动生成注解" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
-    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+  <template name="*" value="*&#10; * &#10; * @author zhangxy&#10; * @date $date$ $time$ $params$&#10; * @return &#10; */" description="/** 自动生成注解" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="groovyScript(&quot;              def date = _1;               return date              &quot;,date(&quot;yyyy-MM-dd&quot;))" alwaysStopAt="false" />
+    <variable name="time" expression="" defaultValue="groovyScript(&quot;              def time = _1;               return time              &quot;,time(&quot;HH:mm:ss&quot;))" alwaysStopAt="false" />
+    <variable name="params" expression="" defaultValue="groovyScript(&quot;              def result='';               def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();              for(i = 0; i &lt; params.size(); i++) {                if(params[i] == '')                 return result;                if(i==0)                 result += '\\n';                 result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n' : '')              };              return result              &quot;, methodParameters() )" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="、" value="*&#10; * &#10; * @author zhangxy&#10; * @date $date$ $time$ $params$&#10; * @return &#10; */&#10;提示：去掉对勾Refomat according to style&#10;参数设置：&#10;$date$：groovyScript(&quot;              def date = _1;               return date              &quot;,date(&quot;yyyy-MM-dd&quot;))&#10;$time$：groovyScript(&quot;              def time = _1;               return time              &quot;,time(&quot;HH:mm:ss&quot;))&#10;$params$：groovyScript(&quot;              def result='';               def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();              for(i = 0; i &lt; params.size(); i++) {                if(params[i] == '')                 return result;                if(i==0)                 result += '\\n';                 result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n' : '')              };              return result              &quot;, methodParameters() )" description="/**自动注释的脚本备份-防止误删" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
