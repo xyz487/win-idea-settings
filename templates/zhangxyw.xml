@@ -1,9 +1,8 @@
 <templateSet group="zhangxyw">
-  <template name="*" value="*&#10;* @Description $Description$&#10;* @Author $user$&#10;* @Date $date$ $time$&#10;*/" description="/** 自动生成注解" toReformat="true" toShortenFQNames="true">
-    <variable name="Description" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+  <template name="*" value="*&#10; * &#10; * @author zhangxy&#10; * @date $date$ $time$&#10; * @param $params$&#10; * @return &#10; */" description="/** 自动生成注解" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
