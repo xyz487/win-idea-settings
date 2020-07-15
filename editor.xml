@@ -4,8 +4,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="DialogInput" />
-    <option name="LINE_SPACING" value="0.6" />
+    <option name="FONT_FAMILY" value="Dialog" />
+    <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />

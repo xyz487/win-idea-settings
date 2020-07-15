@@ -4,14 +4,13 @@
     <property name="created">2018-04-10T09:57:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2020-05-21T18:23:45</property>
+    <property name="modified">2020-07-15T14:01:50</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="YuMincho +36p Kana" />
-  <option name="CONSOLE_FONT_NAME" value="YuMincho +36p Kana" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Dialog" />
+  <option name="CONSOLE_FONT_NAME" value="DialogInput" />
   <option name="CONSOLE_LINE_SPACING" value="0.6" />
   <attributes>
     <option name="HTML_CODE">
