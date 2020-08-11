@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ssos-dev" uuid="d4c9fb91-af69-47e7-9d91-67fc246d8c87">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://1.194.235.202:18061/ssos</jdbc-url>
+    </data-source>
+  </component>
+</application>
