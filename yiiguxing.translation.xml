@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer Id" />
       <item value="request" />
       <item value="platform/jwVehicleConf/getJwVehicleInfoList " />
     </histories>
