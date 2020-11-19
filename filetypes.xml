@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="json" type="JSON" />
       <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
