@@ -3,6 +3,8 @@
     <ignoreFiles list="*.classpath;*.gitignore;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sts4-cache;*.vscode;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="json" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
