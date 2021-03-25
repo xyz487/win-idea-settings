@@ -77,7 +77,9 @@
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="READ_ONLY_LOCK" value="false" />
+        </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
