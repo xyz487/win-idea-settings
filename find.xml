@@ -13,7 +13,7 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
