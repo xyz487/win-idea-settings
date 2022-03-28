@@ -10,6 +10,10 @@
           <option name="url" value="http://1.194.235.202:18049" />
           <option name="userName" value="zhangxiaoyu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="xy_z487@163.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace\idea" />
