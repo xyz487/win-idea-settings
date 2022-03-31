@@ -11,10 +11,12 @@
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="qa" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
