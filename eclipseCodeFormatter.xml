@@ -1,0 +1,15 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1662529825226" />
+          <option name="name" value="alibaba-p3c" />
+          <option name="pathToConfigFileJava" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\eclipse-codestyle.xml" />
+          <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
