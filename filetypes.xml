@@ -11,9 +11,12 @@
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
+      <mapping pattern="e" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="A" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="PLAIN_TEXT" />
       <mapping pattern="qa" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
