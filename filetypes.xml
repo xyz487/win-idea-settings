@@ -24,6 +24,7 @@
       <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="result" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
