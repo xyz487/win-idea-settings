@@ -7,6 +7,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="new 5" type="PLAIN_TEXT" />
       <mapping pattern="15" type="PLAIN_TEXT" />
+      <mapping pattern="已发子品牌" type="PLAIN_TEXT" />
       <mapping pattern="70" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
@@ -15,6 +16,7 @@
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="9月发版" type="PLAIN_TEXT" />
       <mapping pattern="A" type="PLAIN_TEXT" />
       <mapping pattern="dev" type="PLAIN_TEXT" />
       <mapping pattern="qa" type="PLAIN_TEXT" />
