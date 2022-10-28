@@ -9,6 +9,7 @@
       <mapping pattern="15" type="PLAIN_TEXT" />
       <mapping pattern="已发子品牌" type="PLAIN_TEXT" />
       <mapping pattern="70" type="PLAIN_TEXT" />
+      <mapping pattern="product" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
