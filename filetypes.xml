@@ -28,6 +28,7 @@
       <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="10月发版-子品牌" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping ext="sql" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" type="SQL" />
