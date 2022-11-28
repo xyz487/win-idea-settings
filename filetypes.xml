@@ -11,6 +11,7 @@
       <mapping pattern="70" type="PLAIN_TEXT" />
       <mapping pattern="product" type="PLAIN_TEXT" />
       <mapping pattern="screen" type="PLAIN_TEXT" />
+      <mapping pattern="ng" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="10月发版" type="PLAIN_TEXT" />
@@ -28,6 +29,7 @@
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-prod" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="param" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="10月发版-子品牌" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
