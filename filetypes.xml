@@ -15,6 +15,7 @@
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="10月发版" type="PLAIN_TEXT" />
+      <mapping pattern="nok" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
