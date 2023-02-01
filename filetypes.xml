@@ -38,6 +38,7 @@
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="ok" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
