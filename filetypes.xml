@@ -10,13 +10,13 @@
       <mapping pattern="xyk" type="PLAIN_TEXT" />
       <mapping pattern="已发子品牌" type="PLAIN_TEXT" />
       <mapping pattern="70" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="product" type="PLAIN_TEXT" />
       <mapping pattern="ng" type="PLAIN_TEXT" />
       <mapping pattern="√ 已发幸运咖、极拉图" type="PLAIN_TEXT" />
-      <mapping pattern="jlt" type="PLAIN_TEXT" />
       <mapping pattern="√ 已发蜜雪、汇茶；未发幸运咖、极拉图" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="jlt" type="PLAIN_TEXT" />
       <mapping pattern="10月发版" type="PLAIN_TEXT" />
       <mapping pattern="screen" type="PLAIN_TEXT" />
       <mapping pattern="nok" type="PLAIN_TEXT" />
