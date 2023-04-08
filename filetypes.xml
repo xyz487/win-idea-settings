@@ -8,6 +8,7 @@
       <mapping pattern="new 5" type="PLAIN_TEXT" />
       <mapping pattern="15" type="PLAIN_TEXT" />
       <mapping pattern="xyk" type="PLAIN_TEXT" />
+      <mapping pattern="MxProductType" type="PLAIN_TEXT" />
       <mapping pattern="已发子品牌" type="PLAIN_TEXT" />
       <mapping pattern="70" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
