@@ -5,12 +5,11 @@
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
     <mask>pom.xml`</mask>
@@ -22,5 +21,6 @@
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.css</mask>
   </component>
 </application>
