@@ -20,9 +20,9 @@
     <mask>*.yml</mask>
     <mask>.log</mask>
     <mask>*.log</mask>
-    <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.css</mask>
     <mask>*.java</mask>
   </component>
 </application>
