@@ -18,8 +18,8 @@
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
