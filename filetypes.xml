@@ -40,6 +40,7 @@
       <mapping pattern="10月发版-子品牌" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="ok" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
