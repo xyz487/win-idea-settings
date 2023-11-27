@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.log" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,9 +17,9 @@
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.properties</mask>
-    <mask>*.log</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.log</mask>
   </component>
 </application>
