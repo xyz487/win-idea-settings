@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'mixuepos'" />
+    <option name="defaultScopeName" value="Project 'mixuepos'" />
+    <option name="SEARCH_SCOPE" value="Project 'mixuepos'" />
     <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
