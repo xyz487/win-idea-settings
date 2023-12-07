@@ -18,9 +18,9 @@
     <mask>*.log</mask>
     <mask>*.css</mask>
     <mask>pom.xml</mask>
+    <mask>en.properties</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
-    <mask>en.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
