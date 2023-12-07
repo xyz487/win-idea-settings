@@ -19,8 +19,8 @@
     <mask>pom.xml</mask>
     <mask>en.properties</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
